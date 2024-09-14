@@ -7,4 +7,4 @@ A personal project to analyze bank statements of donations for citizens in the n
 - The total amount of donations recorded so far (from VCB and VTB) is over 170 billion VND.
 - The highest donations are: individual: Duy Chính (300 million VND); educational institution: Kitten Kindergarten (30 million VND); celebrity/fandom: Hòa Minzy (400 million VND); company/group: National Academy of Politics (1 billion VND), Thu Cúc International General Hospital (1 billion VND).
 
-[Charts](charts.jpg)
+![Charts](charts.jpg)
