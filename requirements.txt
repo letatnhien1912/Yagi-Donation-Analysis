@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+scipy
+tabula-py
+ipykernel
+JPype1
+PyPDF2
